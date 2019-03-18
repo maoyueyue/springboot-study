@@ -11,5 +11,4 @@ public class Course {
     private String cover;
     private String courseCode;
     private Short finished;
-
 }
